@@ -1,0 +1,17 @@
+{
+  "name": "embun-android",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Embun Android shell. Loads the live Embun web app so updates arrive automatically.",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.1.2",
+    "@capacitor/core": "6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "6.1.2"
+  }
+}
