@@ -1,0 +1,14 @@
+{
+  "appId": "app.embun.finance",
+  "appName": "Embun",
+  "webDir": "www",
+  "server": {
+    "url": "https://embun-theta.vercel.app",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#f2f2f7"
+  }
+}
